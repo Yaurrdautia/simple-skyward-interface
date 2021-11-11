@@ -1,7 +1,7 @@
 import skywrd
 
 #initializes the library with the parameters.
-skywrd.setup("uratayut000","Ryzen700@o")
+skywrd.setup("helloworld","helloworld")
 
 #logs into account and grabs the string that has the session id in it.
 session = skywrd.get_login()
